@@ -1,6 +1,6 @@
 <?php 
 
-namespace Vladf86\Splitcss\Services;
+namespace Splitcss\Splitcss\Services;
 
 use \Exception;
 use GuzzleHttp\Client;

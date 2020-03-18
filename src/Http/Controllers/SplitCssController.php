@@ -1,11 +1,11 @@
 <?php
 
-namespace Vladf86\Splitcss\Http\Controllers;
+namespace Splitcss\Splitcss\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Cache;
 use Illuminate\Http\Request;
-use Vladf86\Splitcss\Services\CssOptimizer;
+use Splitcss\Splitcss\Services\CssOptimizer;
 
 class SplitCssController extends Controller
 {

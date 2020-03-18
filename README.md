@@ -7,11 +7,11 @@ It caches the split CSS per page in the your app, saving you unnecessary API cal
 
 To install the client, you will need to download this package:
 
-`composer require vladf86/splitcss`
+`composer require splitcss/splitcss`
 
 and add the provider in the `config/app.php` file:
 
-`Vladf86\Splitcss\Providers\SplitCssClientProvider::class`
+`Splitcss\Splitcss\Providers\SplitCssClientProvider::class`
 
 
 ## Prerequisites

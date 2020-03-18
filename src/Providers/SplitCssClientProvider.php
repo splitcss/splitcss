@@ -1,6 +1,6 @@
 <?php
 
-namespace Vladf86\Splitcss\Providers;
+namespace Splitcss\Splitcss\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
