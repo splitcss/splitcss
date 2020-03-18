@@ -53,3 +53,7 @@ This will create a `splitcss.php` file in your `app/config/` folder.
 ## Further Information
 
 For further information, you can check out the [SplitCSS documentation](https://splitcss.com/documentation) and the [FAQ](https://splitcss.com/faq) section.
+
+## License
+
+The SplitCSS client package is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
