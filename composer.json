@@ -1,0 +1,19 @@
+{
+	"name": "vladf86/splitcss",
+	"description": "A Laravel Client for the SplitCSS API.",
+	"require": {
+		"guzzlehttp/guzzle": "~6.0"
+	},
+	"autoload": {
+        "psr-4": {
+            "Vladf86\\Splitcss\\": "src/"
+        }
+    },
+	"extra": {
+		"laravel": {
+			"providers": [
+				"Vladf86\\Splitcss\\Providers\\SplitCssClientProvider"
+			]
+		}
+	},
+}
