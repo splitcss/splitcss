@@ -1,6 +1,7 @@
 {
 	"name": "splitcss/splitcss",
 	"description": "A Laravel Client for the SplitCSS API.",
+	"license": "MIT",
 	"require": {
 		"guzzlehttp/guzzle": "~6.0"
 	},
