@@ -9,6 +9,7 @@
             "Vladf86\\Splitcss\\": "src/"
         }
     },
+    "minimum-stability": "dev",
 	"extra": {
 		"laravel": {
 			"providers": [
