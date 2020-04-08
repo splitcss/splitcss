@@ -3,7 +3,10 @@
 	"description": "A Laravel Client for the SplitCSS API.",
 	"license": "MIT",
 	"require": {
-		"guzzlehttp/guzzle": "~6.0"
+		"guzzlehttp/guzzle": "~6.0",
+		"illuminate/config": "^6.0|^7.0",
+		"illuminate/cache": "^6.0|^7.0",
+		"illuminate/support": "^6.0|^7.0"
 	},
 	"autoload": {
         "psr-4": {
